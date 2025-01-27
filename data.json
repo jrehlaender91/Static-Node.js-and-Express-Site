@@ -1,0 +1,23 @@
+{
+    "data": {
+        "title": "Projects",
+        "projects": [
+            {
+                "id": 0,
+                "project_name": "It starts with a \"J\"",
+                "description": "JavaScript",
+                "technologies": [
+                    "HTML", 
+                    "CSS", 
+                    "JavaScript"
+                ],
+                "live_link": "https://www.google.com",
+                "github_link": "https://www.github.com",
+                "image_urls": [
+                    "https://via.placeholder.com/300",
+                    "https://via.placeholder.com/300"
+                ]
+            }
+        ]
+    }
+}
