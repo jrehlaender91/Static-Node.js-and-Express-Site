@@ -24,49 +24,57 @@
             {
                 "id": 1,
                 "project_name": "Employee Directory",
-                "description": "JavaScript",
+                "description": "This directory is built with the Random User Generator API (https://randomuser.me/) to retrieve information for 12 random “employees” and use that data to build the employee directory. It includes a modal display when the user clicks an employee and a search function.",
                 "technologies": [
-                    "HTML", 
+                    "JavaScript", 
+                    "Fetch and Public APIs",
                     "CSS", 
-                    "JavaScript"
+                    "HTML"
                 ],
                 "live_link": "https://jrehlaender91.github.io/Use-an-API-to-Create-an-Employee-Directory/",
                 "github_link": "https://github.com/jrehlaender91/Use-an-API-to-Create-an-Employee-Directory/",
                 "image_urls": [
                     "./static/images/employee-directory-profile.jpg",
-                    "https://via.placeholder.com/300"
+                    "../static/images/employee-directory-1.jpeg",
+                    "../static/images/employee-directory-2.jpg"
                 ]
             },
             {
                 "id": 2,
                 "project_name": "Web App Dashboard",
-                "description": "JavaScript",
+                "description": "Web dashboard with JavaScript-driven charts and graphs.",
                 "technologies": [
+                    "JavaScript",
                     "HTML", 
-                    "CSS", 
-                    "JavaScript"
+                    "CSS"
+                    
                 ],
                 "live_link": "https://jrehlaender91.github.io/WebApp-Dashboard/",
                 "github_link": "https://github.com/jrehlaender91/WebApp-Dashboard/",
                 "image_urls": [
                     "./static/images/web-app-profile.jpg",
-                    "https://via.placeholder.com/300"
+                    "../static/images/web-app-1.jpeg"
                 ]
             },
             {
                 "id": 3,
                 "project_name": "Flashcards Study App",
-                "description": "JavaScript",
+                "description": "A flashcard study app that allows users to \"log in\" and study with question and aswer cards. The app uses a local server to store the flashcards.",
                 "technologies": [
                     "HTML", 
                     "CSS", 
-                    "JavaScript"
+                    "JavaScript",
+                    "Node.js",
+                    "Express",
+                    "Pug"
                 ],
-                "live_link": "https://jrehlaender91.github.io/Game-Show-App/",
-                "github_link": "https://github.com/jrehlaender91/Game-Show-App",
+                "live_link": "https://jrehlaender91.github.io/Flashcards/",
+                "github_link": "https://github.com/jrehlaender91/Flashcards/",
                 "image_urls": [
                     "./static/images/flashcards-profile.jpg",
-                    "https://via.placeholder.com/300"
+                    "../static/images/flashcards-1.jpg",
+                    "../static/images/flashcards-2.jpg",
+                    "../static/images/flashcards-3.jpg"
                 ]
             }
         ]
