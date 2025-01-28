@@ -4,7 +4,7 @@ html(lang="en" dir="ltr")
     meta(charset='utf-8')
     meta(http-equiv='x-ua-compatible', content='ie=edge')
     meta(name='viewport', content='width=device-width, initial-scale=1.0')
-    title Portfolio Site
+    title Jorge Rehlaender - Web Developer
     link(href='https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,800', rel='stylesheet')
     link(rel='stylesheet', href='/static/css/normalize.css')
     link(rel='stylesheet', href='/static/css/styles.css')
@@ -14,25 +14,19 @@ html(lang="en" dir="ltr")
       .sidebar-info-box
         br
         .thumbnail-box
-          img.thumbnail(src='https://placehold.it/550x350', alt='')
+          img.thumbnail(src='/static/images/profile.jpg', alt='')
         .dev-intro-box
 
-          //- Replace with your name
-          h5 Name
-
-          //- Replace with description of who you are, what you do, and why you are so awesome
-          p Description
-
-          //- Add path from your '/about' route handler to the href below
-          a(href='') Learn More &rarr;
+          h5 Jorge Rehlaender
+          p Hi! I’m a passionate web developer dedicated to creating functional, user-friendly, and visually stunning websites. With a focus on clean code, responsive design, and seamless user experiences, I bring ideas to life on the web. I’m here to help turn your vision into reality. Let’s build something amazing together!
+          a(href='about') Learn More &rarr;
 
     .wrapper
       .header
         .header-info-box
           button#menu-icon.menu-icon(type='button' data-toggle='my-info')
 
-          //- Replace with your name — this is for the mobile layout
-          span Name
+          span Jorge Rehlaender
 
       block content
 

@@ -4,17 +4,68 @@
         "projects": [
             {
                 "id": 0,
-                "project_name": "It starts with a \"J\"",
+                "project_name": "Game Show App",
+                "description": "Try to guess the classic rock song by clicking letters on an onscreen keyboard. You'll lose one life for each incorrect guess. If you guess the song before you run out of lives, you win!",
+                "technologies": [
+                    "JavaScript", 
+                    "CSS", 
+                    "HTML",
+                    "OOP"
+                ],
+                "live_link": "https://jrehlaender91.github.io/OOP-Game-Show-App/",
+                "github_link": "https://github.com/jrehlaender91/OOP-Game-Show-App",
+                "image_urls": [
+                    "./static/images/game-show-app-profile.jpg",
+                    "../static/images/game-show-app-profile-1.jpg",
+                    "../static/images/game-show-app-profile-2.jpg",
+                    "../static/images/game-show-app-profile-3.jpg"
+                ]
+            },
+            {
+                "id": 1,
+                "project_name": "Employee Directory",
                 "description": "JavaScript",
                 "technologies": [
                     "HTML", 
                     "CSS", 
                     "JavaScript"
                 ],
-                "live_link": "https://www.google.com",
-                "github_link": "https://www.github.com",
+                "live_link": "https://jrehlaender91.github.io/Use-an-API-to-Create-an-Employee-Directory/",
+                "github_link": "https://github.com/jrehlaender91/Use-an-API-to-Create-an-Employee-Directory/",
                 "image_urls": [
-                    "https://via.placeholder.com/300",
+                    "./static/images/employee-directory-profile.jpg",
+                    "https://via.placeholder.com/300"
+                ]
+            },
+            {
+                "id": 2,
+                "project_name": "Web App Dashboard",
+                "description": "JavaScript",
+                "technologies": [
+                    "HTML", 
+                    "CSS", 
+                    "JavaScript"
+                ],
+                "live_link": "https://jrehlaender91.github.io/WebApp-Dashboard/",
+                "github_link": "https://github.com/jrehlaender91/WebApp-Dashboard/",
+                "image_urls": [
+                    "./static/images/web-app-profile.jpg",
+                    "https://via.placeholder.com/300"
+                ]
+            },
+            {
+                "id": 3,
+                "project_name": "Flashcards Study App",
+                "description": "JavaScript",
+                "technologies": [
+                    "HTML", 
+                    "CSS", 
+                    "JavaScript"
+                ],
+                "live_link": "https://jrehlaender91.github.io/Game-Show-App/",
+                "github_link": "https://github.com/jrehlaender91/Game-Show-App",
+                "image_urls": [
+                    "./static/images/flashcards-profile.jpg",
                     "https://via.placeholder.com/300"
                 ]
             }
